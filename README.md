@@ -100,16 +100,8 @@ The winner will be determined by the submission that achieves the best classific
 Check the leaderboard to see other's rankings : https://noormajdoub.github.io/Liarnode_challenge/ ✨✨
 ###  Submission Process
 
-1. Fork this repository
-2. Add your predictions: `submissions/submission_<username>.csv`  (create the submissions folder and put your csv file in it)
-3. Create Pull Request:
-   *Base : Main
-   
-   *Name Submission: <your_username>
-   
-   *Compare: your fork/branch with the submission file
-4. Merge 
-5. Leaderboard updated within 24 hours :https://noormajdoub.github.io/Liarnode_challenge/ 
+1.https://docs.google.com/forms/d/e/1FAIpQLScS24HXyyu1Lex7UfwcWCyxGsOANcz2vezGSM9ozblTi4WrQg/viewform 
+ Leaderboard updated within 24 hours :https://noormajdoub.github.io/Liarnode_challenge/ 
 
 Good luck, and may the best aggregation strategy win! 
 ## Resources
