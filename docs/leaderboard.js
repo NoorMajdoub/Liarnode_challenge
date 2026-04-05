@@ -1,5 +1,5 @@
 const CSV_URL =
-  "https://raw.githubusercontent.com/NoorMajdoub/Challenge/main/leaderboard/leaderboard.csv";
+  "https://raw.githubusercontent.com/NoorMajdoub/Liarnode_challenge/main/leaderboard/leaderboard.csv";
 
 let currentData = [];
 let sortAsc = true;
