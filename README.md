@@ -97,7 +97,7 @@ Your submissions will be evaluated on the test set using the overall classificat
 
 ## 🏆 Winning Criteria
 The winner will be determined by the submission that achieves the best classification accuracy .
-Check the leaderboard to see other's rankings : https://noormajdoub.github.io/Challenge/ ✨✨
+Check the leaderboard to see other's rankings : https://noormajdoub.github.io/Liarnode_challenge/ ✨✨
 ###  Submission Process
 
 1. Fork this repository
@@ -109,7 +109,7 @@ Check the leaderboard to see other's rankings : https://noormajdoub.github.io/Ch
    
    *Compare: your fork/branch with the submission file
 4. Merge 
-5. Leaderboard updated within 24 hours :https://noormajdoub.github.io/Challenge/ 
+5. Leaderboard updated within 24 hours :https://noormajdoub.github.io/Liarnode_challenge/ 
 
 Good luck, and may the best aggregation strategy win! 
 ## Resources
