@@ -1,6 +1,7 @@
 | Team | Score |
 |------|-------|
 | submission_gururgamgam | 0.9957 |
+| submission_sanae | 0.9872 |
 | submission_samuelmatia | 0.9840 |
 | submission_emmakowu | 0.9606 |
 | submission_murad | 0.9330 |
