@@ -13,3 +13,4 @@
 | submission_MahaTrabelsi | 0.4713 |
 | submission_idrees | 0.4447 |
 | submission_sargam | 0.4309 |
+| submission_tuga | 0.4074 |
