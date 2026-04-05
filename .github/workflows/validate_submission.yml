@@ -1,0 +1,25 @@
+name: Validate Submission
+
+on:
+  pull_request:
+    paths:
+      - "submissions/**"
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - run: pip install pandas
+
+      - name: Validate submission format
+        run: |
+          python scoring_script.py --validate-only submissions

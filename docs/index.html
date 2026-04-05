@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Liar Nodes Challenge Leaderboard</title>
+
+    <link rel="stylesheet" href="css/base.css">
+    <link rel="stylesheet" href="css/leaderboard.css">
+</head>
+<body>
+
+<div class="page">
+
+    <!-- Header -->
+    <header class="header">
+        <span class="live-badge">LIVE COMPETITION</span>
+        <h1>Liar nodes Challenge Leaderboard</h1>
+        <p class="subtitle">
+            Graph Neural Network Competition · Rankings auto-updated automatically.
+        </p>
+
+        <div class="stats">
+            <span id="teamCount">0 teams</span>
+            <span id="bestScore">Best score: —</span>
+            <span id="lastUpdated">Last updated: —</span>
+        </div>
+    </header>
+
+    <!-- Podium -->
+    <section class="podium">
+        <div class="podium-card second">
+            <span class="place">2nd PLACE</span>
+            <h3 id="secondTeam">—</h3>
+            <p id="secondScore">—</p>
+        </div>
+
+        <div class="podium-card first">
+            <span class="place">1st PLACE</span>
+            <h3 id="firstTeam">—</h3>
+            <p id="firstScore">—</p>
+        </div>
+
+        <div class="podium-card third">
+            <span class="place">3rd PLACE</span>
+            <h3 id="thirdTeam">—</h3>
+            <p id="thirdScore">—</p>
+        </div>
+    </section>
+
+    <!-- Rankings -->
+    <section class="rankings">
+        <h2>Full Rankings</h2>
+
+        <input type="text" id="searchBox" placeholder="Search teams...">
+
+        <table id="leaderboard">
+            <thead>
+                <tr>
+                    <th >Rank</th>
+                    <th >Team</th>
+                    <th >Accuracy</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </section>
+ <p class="subtitle2">
+           Data sourced from <a href="https://github.com/NoorMajdoub/Challenge/tree/main" target="_blank">
+    NoorMajdoub/Challenge
+</a> on GitHub. Auto-refreshes every 30s.
+        </p>
+</div>
+
+<script src="leaderboard.js"></script>
+</body>
+</html>

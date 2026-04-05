@@ -1,0 +1,16 @@
+| Team | Score |
+|------|-------|
+| submission_gururgg | 0.9957 |
+| submission_sanae | 0.9872 |
+| submission_samuel | 0.9840 |
+| submission_emmanuel_owusu | 0.9606 |
+| submission_Murad | 0.9330 |
+| submission_AiIkram | 0.8266 |
+| submission_Muhammad_Isah | 0.7628 |
+| submission_faranbutt | 0.7606 |
+| submission_Elhouiti_Ikram | 0.7426 |
+| submission_peguy | 0.7266 |
+| submission_mahatrabelsi1 | 0.4713 |
+| submission_Idrees_Bhat | 0.4447 |
+| submission_sargam | 0.4309 |
+| submission_TugaAhmed | 0.4074 |
