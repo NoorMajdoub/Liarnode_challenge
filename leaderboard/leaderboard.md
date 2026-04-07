@@ -2,8 +2,8 @@
 |------|-------|
 | submission_gururgamgam | 0.9957 |
 | submission_sanae | 0.9872 |
-| submission_samuelmatia | 0.9840 |
 | submission_Bijay Adhikari | 0.9840 |
+| submission_samuelmatia | 0.9840 |
 | submission_emmakowu | 0.9606 |
 | submission_murad | 0.9330 |
 | submission_aissiouikram | 0.8266 |
@@ -11,6 +11,7 @@
 | submission_faranbutt | 0.7606 |
 | submission_ikram_elhouiti | 0.7426 |
 | submission_peguy | 0.7266 |
+| submission_Abderrahmane | 0.5404 |
 | submission_MahaTrabelsi | 0.4713 |
 | submission_idrees | 0.4447 |
 | submission_sargam | 0.4309 |
