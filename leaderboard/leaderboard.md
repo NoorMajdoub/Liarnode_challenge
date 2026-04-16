@@ -6,6 +6,7 @@
 | submission_samuelmatia | 0.9840 |
 | submission_emmakowu | 0.9606 |
 | submission_murad | 0.9330 |
+| submission_RosaPY | 0.8968 |
 | submission_aissiouikram | 0.8266 |
 | submission_muhammadibrahimisah | 0.7628 |
 | submission_faranbutt | 0.7606 |
