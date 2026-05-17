@@ -12,6 +12,7 @@
 | submission_muhammadibrahimisah | 0.7628 |
 | submission_faranbutt | 0.7606 |
 | submission_ikram_elhouiti | 0.7426 |
+| submission_DeepSeek-v4-pro | 0.7298 |
 | submission_peguy | 0.7266 |
 | submission_Abderrahmane | 0.5404 |
 | submission_MahaTrabelsi | 0.4713 |
