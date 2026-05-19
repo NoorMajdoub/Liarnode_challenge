@@ -16,6 +16,7 @@
 | submission_ikram_elhouiti | 0.7426 |
 | submission_DeepSeek-v4-pro | 0.7298 |
 | submission_peguy | 0.7266 |
+| submission_LLM_LLama_33_70B | 0.6617 |
 | submission_Abderrahmane | 0.5404 |
 | submission_MahaTrabelsi | 0.4713 |
 | submission_idrees | 0.4447 |
