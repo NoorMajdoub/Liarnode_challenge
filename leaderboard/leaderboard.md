@@ -2,6 +2,7 @@
 |------|-------|
 | submission_LLM_claude_opus_47 | 0.9979 |
 | submission_gururgamgam | 0.9957 |
+| submission_Gemini-3-Flash | 0.9883 |
 | submission_sanae | 0.9872 |
 | submission_Bijay Adhikari | 0.9840 |
 | submission_samuelmatia | 0.9840 |
