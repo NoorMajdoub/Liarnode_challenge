@@ -4,8 +4,8 @@
 | submission_gururgamgam | 0.9957 |
 | submission_Gemini-3-Flash | 0.9883 |
 | submission_sanae | 0.9872 |
-| submission_Bijay Adhikari | 0.9840 |
 | submission_samuelmatia | 0.9840 |
+| submission_Bijay Adhikari | 0.9840 |
 | submission_emmakowu | 0.9606 |
 | submission_murad | 0.9330 |
 | submission_LLM_gemini_25_pro | 0.9266 |
@@ -17,6 +17,7 @@
 | submission_ikram_elhouiti | 0.7426 |
 | submission_DeepSeek-v4-pro | 0.7298 |
 | submission_peguy | 0.7266 |
+| submission_Qwen2.5-Coder-32B-Instruct | 0.6660 |
 | submission_LLM_LLama_33_70B | 0.6617 |
 | submission_Abderrahmane | 0.5404 |
 | submission_MahaTrabelsi | 0.4713 |
